@@ -1,0 +1,10 @@
+Subarea,Location,Package,Subdivision,Structure,Action,Recommendation,Approved CCTV Vendor,Walkthrough,Vendor Surveyor ,Reviewer,Corrective Action,Notes,Warranty,OC Surveyor,Reviewer.1,Corrective Action.1,Notes.1
+SA3121,31210004-31210006,nan,nan,Gravity Main,New,nan,Jr. Davis Construction,Accepted,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SA3121,31210006,nan,nan,ARV,New,nan,Altair Environmental,Removed,nan,T. Martin,Brush,Missing  welded joints from the liner ,Removed,HARBER_T,M. Byrd,Adjust,nan
+SA3121,31210006-31210003,nan,nan,Gravity Main,New,nan,Jr. Davis Construction,Rejected,nan,nan,nan,Televising with the flow concrete in the pipe at 1 foot.Did not look at manhole 3,nan,nan,nan,nan,nan
+SA3121,31210003-31210002,nan,nan,Gravity Main,Repair,nan,Jr. Davis Construction,Accepted,nan,nan,nan,TESTTTTT,nan,nan,nan,nan,nan
+SA3121,31210002-31210001,nan,nan,Gravity Main,Line,nan,nan,Accepted,Applewhite_D,M. Byrd,nan,Accepted lining  12/21/21,nan,nan,nan,nan,nan
+SA3183,31830001-31830000,nan,ALHAMBRA CLUB CONDO,Gravity Main,Line,nan,Jr. Davis Construction,Accepted,nan,M. Byrd,nan,nan,nan,nan,nan,nan,nan
+SA3183,31830003-31830001,nan,ALHAMBRA CLUB CONDO,Gravity Main,Repair,nan,Jr. Davis Construction,Accepted,nan,M. Byrd,nan,"Missing top of manhole 3, MH 3 holding water,  No video MH to MH run. Accepted 12/21/21",nan,nan,nan,nan,nan
+SA3183,31830004-31830003,nan,ALHAMBRA CLUB CONDO,Gravity Main,New,nan,Jr. Davis Construction,Rejected,nan,M. Byrd,nan,Missing top of  MH 4  MH holding water ,nan,nan,nan,nan,nan
+SA3183,31830005-31830004,nan,ALHAMBRA CLUB CONDO,Gravity Main,New,nan,Jr. Davis Construction,Rejected,nan,M. Byrd,nan,Missing top of manhole 5,nan,nan,nan,nan,nan
